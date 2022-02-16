@@ -8,4 +8,4 @@ This Repository contains some Exercises from "Data-Structures Fundamentals" cour
 4. DoublyLinkedList
 5. Trees 
 6. Heaps 
-7 BFS and DFS algorithms
+7. BFS and DFS algorithms
